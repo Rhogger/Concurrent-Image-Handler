@@ -1,3 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using ImageHandler.Core.Menus;
 
-Console.WriteLine("Hello, World!");
+MainMenu.Display();
